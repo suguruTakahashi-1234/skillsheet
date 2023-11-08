@@ -11,42 +11,40 @@
 ### iOS アプリ開発
 
 - **Swift**
-  - SwiftUI, Combine, Swift Concurrency, Swift Package Manager といった Swift の最新技術を用いた実装経験。
-  - Swift の言語機能に関する数多くのブログの投稿。→ [Zenn](https://zenn.dev/ikuraikura)
+  - SwiftUI, Combine, Swift Concurrency, Swift Package Manager といった Swift の最新技術を活用した実装の経験がある。
+  - Swift の言語機能について多数のブログ記事を投稿している。→ [Zenn](https://zenn.dev/ikuraikura)
 - **リードエンジニア**
-  - 0 → 1 フェーズでの iOS アプリ開発のリードエンジニアの経験。
-  - アーキテクチャやライブラリの選定を含むプロジェクト立ち上げにおける技術選定の経験。
+  - iOS アプリ開発の 0 → 1 フェーズでのリードエンジニアを務めた。
+  - アーキテクチャやライブラリの選定を含むプロジェクト立ち上げにおける技術選定を行なった。
 - **アーキテクチャ**
-  - Clean Architecture, VIPER, MVVM, Redux などの様々なアーキテクチャパターンの適用経験。
-  - Swift Package Manager でのマルチモジュールアプリ構成の設計と実装経験。
+  - Clean Architecture, VIPER, MVVM, Redux など、さまざまなアーキテクチャパターンを適用した経験がある。
+  - Swift Package Manager を使用したマルチモジュールアプリの設計・実装をした。
 - **ライブラリの組み込み**
-  - ドローンなどのハードウェア機器の制御や、インカメラを使った視線分析、感情分析といった高度な実装スキルを要するライブラリの組み込みの実装経験。
+  - ドローンなどのハードウェア機器の制御や、インカメラを使った視線分析、感情分析といった高度な実装スキルを要するライブラリの組み込みの経験がある。
 - **mBaaS 連携**
   - **Firebase**
-    - Authentication, Firestore, Storage, Analytics, Crashlytics などの Firebase の各種サービスの利用/実装経験。
-  - **AWS Amplify**
-    - AppSync (GraphQL), Cognito, S3, Pinpoint などの AWS の各種サービスの利用/実装経験。
+    - Authentication, Firestore, Storage, Analytics, Crashlytics, App Distribution など、Firebase のさまざまなサービスを利用し、実装した。
+  - **AWS**
+    - AppSync (GraphQL), Cognito, S3, Pinpoint などのサービスを AWS Amplify SDK を利用して実装した。
 - **CI/CD**
-  - Xcode Cloud, Bitrise などを用いた自動テスト、自動デプロイ環境の構築経験。
+  - Xcode Cloud や Bitrise を利用して自動テストや自動デプロイの環境を構築した。
 
 ### チーム開発
 
 - **チーム間コミュニケーション**
-  - PdM、デザイナーと連携し、アプリケーションの仕様/デザインの調整経験。
-  - サーバーサイドチームと連携し、API インターフェースの調整経験。
+  - PdM、デザイナー、サーバーサイドチームと連携し、アプリケーションの仕様、デザイン、API インターフェースを検討・調整した経験がある。
 - **アジャイル開発**
-  - Jira, Confluence, GitHub Projects, Trello, Zenhub を含む多様なプロジェクト管理ツールを活用した数多くのアジャイル開発プロセスの経験。
+  - Jira, Confluence, GitHub Projects, Trello, Zenhub など、様々なプロジェクト管理ツールを用いたアジャイルでの開発を数多く経験している。
 - **Scrum Master**
-  - Scrum Master として、チームのスプリント計画、実行、レトロスペクティブのファシリテーション、スクラムボードの設計を経験。
+  - Scrum Master として、スプリント計画、実行、レトロスペクティブのファシリテーション、スクラムボードの設計などを行った経験がある。
 
 ### その他の技術
 
 - **Flutter**
-  - Flutter による iOS/Android クロスプラットフォームでのアプリ開発経験。
+  - Flutter を使用した iOS/Android のクロスプラットフォームアプリ開発の経験がある。
 - **サーバーサイドエンジニア**
-  - PHP での API の設計/開発、DB (MySQL) のテーブル設計、OAuth2.0 での認証/認可の設計/実装。
-  - OpenAPI (Swagger) での API インターフェース提供。
-  - Postman を用いた API テストの自動化、JMeter での負荷テストのテストの設計/実施。
+  - PHP での API の設計・開発、MySQL データベースのテーブル設計、OAuth2.0 による認証・認可の設計と実装の経験がある。
+  - OpenAPI (Swagger) を通じて API インターフェースの提供や、Postman を用いた API テストの自動化、JMeter での負荷テストを設計・実施した経験がある。
 
 ## 案件経歴
 
