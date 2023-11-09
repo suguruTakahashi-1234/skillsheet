@@ -518,8 +518,8 @@
 
 #### 使用言語
 
-- Java
 - PHP (CodeIgniter)
+- Java
 
 #### プロジェクト管理
 
