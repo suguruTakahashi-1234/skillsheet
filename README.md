@@ -98,8 +98,7 @@
   - Xcode Cloud での CI/CD 環境の構築
   - Protocol Buffers に対応した SwiftProtobuf のライブラリを用いたデータ連携
   - async/await, AsyncStream, TaskGroup, actor などを用いた Swift Concurrency による非同期処理のハンドリング
-  - AWS Amplify SDK を用いた Cognito での認証・認可、AppSync による GraphQL 疎通、Pinpoint によるログイベント送信、S3 とのデータ連携
-  - SMS 二要素認証の実装
+  - AWS Amplify SDK を用いた Cognito での SMS での認証・認可、AppSync による GraphQL 疎通、Pinpoint によるログイベント送信、S3 とのデータ連携
   - デザインシステムを活用した画面実装
   - AVFoundation を用いた動画の再生
   - ReplayKit を用いた画面のレコーディング
