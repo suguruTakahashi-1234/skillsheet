@@ -49,7 +49,7 @@
   - Flutter での iOS/Android のクロスプラットフォームアプリ開発の経験
 - **サーバーサイドエンジニア**
   - PHP での API の設計・開発、MySQL データベースのテーブル設計、OAuth2.0 による認証・認可の設計と実装
-  - OpenAPI (Swagger) を通じて API インターフェースの共有、Postman を用いた API テストの自動化、JMeter での負荷テストを設計・実施
+  - OpenAPI (Swagger) での API インターフェースの共有、Postman を用いた API テストの自動化、JMeter での負荷テストを設計・実施
 
 ## 職歴・学歴
 
