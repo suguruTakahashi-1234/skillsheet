@@ -2,7 +2,6 @@
 
 ## 基本情報
 
-- **名前**: 高橋 俊
 - **所在**: 東京
 - **外部リンク**: [Zenn](https://zenn.dev/ikuraikura), [GitHub](https://github.com/suguruTakahashi-1234), [X](https://twitter.com/ikuraikuraaaaaa), [Wantedly](https://www.wantedly.com/id/suguru_takahashi_m)
 
