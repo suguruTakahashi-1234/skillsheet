@@ -1,5 +1,7 @@
 # スキルシート
 
+- このスキルシートのリンク: https://github.com/suguruTakahashi-1234/skillsheet
+
 ## 基本情報
 
 - **所在**: 東京
