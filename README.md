@@ -3,7 +3,11 @@
 ## 基本情報
 
 - **所在**: 東京
-- **外部リンク**: [Zenn](https://zenn.dev/ikuraikura), [GitHub](https://github.com/suguruTakahashi-1234), [X](https://twitter.com/ikuraikuraaaaaa), [Wantedly](https://www.wantedly.com/id/suguru_takahashi_m)
+- **外部リンク**:
+  - Zenn - https://zenn.dev/ikuraikura
+  - Qiita - https://qiita.com/sugurutakahashi12345
+  - GitHub - https://github.com/suguruTakahashi-1234
+  - X - https://twitter.com/ikuraikuraaaaaa
 
 ## スキルセット
 
@@ -11,7 +15,7 @@
 
 - **Swift**
   - SwiftUI, Combine, Swift Concurrency, Swift Package Manager といった Swift の最新技術を活用した実装
-  - Swift の言語機能について多数のブログ記事の投稿 → [Zenn](https://zenn.dev/ikuraikura)
+  - Swift の言語機能について多数のブログ記事の投稿 → Zenn: https://zenn.dev/ikuraikura
 - **リードエンジニア**
   - iOS アプリ開発の 0 → 1 フェーズでのリードエンジニアの経験
   - アーキテクチャやライブラリの選定を含むプロジェクト立ち上げにおける技術選定の経験
@@ -538,8 +542,6 @@
 
 ## 自己 PR
 
-iOS エンジニアの高橋 俊です。
-
 BtoC、BtoB にかかわらず、金融、メディア / エンタメ、ドローンといった幅広い業種でのアプリの開発経験があります。
 
 リードエンジニアの経験もあり、アーキテクチャやライブラリの選定や、他チームとの仕様の調整の経験も豊富です。
@@ -548,6 +550,6 @@ iOS 開発だけでもなく、サーバーサイドエンジニアとしても�
 
 数多くのアジャイル開発の経験があり、Scrum Master も担当したことがあります。
 
-業務外でも、新しい技術を試してみることに興味があり、それらについての技術発信も積極的に行っています。→ [Zenn](https://zenn.dev/ikuraikura) (2023/09/28 現在 114件 投稿)
+業務外でも、新しい技術を試してみることに興味があり、それらについての技術発信も積極的に行っています。→ Zenn: https://zenn.dev/ikuraikura (2023/09/28 現在 114件 投稿)
 
 どうぞ、よろしくお願いいたします。
