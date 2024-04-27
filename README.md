@@ -6,10 +6,10 @@
 
 - **所在**: 東京
 - **外部リンク**:
-  - Zenn - https://zenn.dev/ikuraikura
-  - Qiita - https://qiita.com/sugurutakahashi12345
   - GitHub - https://github.com/suguruTakahashi-1234
   - X - https://twitter.com/ikuraikuraaaaaa
+  - Qiita - https://qiita.com/sugurutakahashi12345
+  - Zenn - https://zenn.dev/ikuraikura
 
 ## スキルセット
 
@@ -53,33 +53,85 @@
 
 ## 職歴・学歴
 
-| 期間                  | 組織名                               | 事業領域                         | 雇用形態 |
-|-----------------------|--------------------------------------|----------------------------------|------------|
-| 2023年4月 - 2023年10月 | スタートアップ A 社                 | マーケティング <br> リサーチ           | 業務委託   |
-| 2022年8月 - 2022年12月 | メガベンチャー B 社          | メディア / エンタメ                | 業務委託   |
-| 2021年7月 - 2022年5月  | ドローンベンチャー C 社                          | ドローン SaaS | 業務委託   |
-| 2017年4月 - 2021年6月  | 外資系 IT コンサル D 社 | SIer       | 正社員     |
-| 2015年4月 - 2017年3月  | 千葉大学大学院 基盤理学専攻                       | -                     | - |
-| 2011年4月 - 2015年3月  | 千葉大学 理学部 化学科                             | -                    | - |
-| 2005年4月 - 2011年3月  | 芝中学校・芝高等学校                                | -                                | - |
+| 期間                   | 組織名                    | 事業領域                     | 雇用形態 |
+| ---------------------- | ------------------------- | ---------------------------- | -------- |
+| 2023年4月 - 2023年10月 | スタートアップ A 社       | マーケティング <br> リサーチ | 業務委託 |
+| 2022年8月 - 2022年12月 | メガベンチャー B 社       | メディア / エンタメ          | 業務委託 |
+| 2021年7月 - 2022年5月  | ドローンベンチャー C 社   | ドローン SaaS                | 業務委託 |
+| 2017年4月 - 2021年6月  | 外資系 IT コンサル D 社   | SIer                         | 正社員   |
+| 2015年4月 - 2017年3月  | 千葉大学大学院 理学研究科 | -                            | -        |
+| 2011年4月 - 2015年3月  | 千葉大学 理学部 化学科    | -                            | -        |
+| 2005年4月 - 2011年3月  | 芝中学校・芝高等学校      | -                            | -        |
 
 ## 案件経歴
 
-| No. | 期間                  | 案件名                                    |
-|-----|-----------------------|-----------------------------------------------------------|
-| 1   | 2023年4月 - 2023年10月 | マーケティングリサーチアプリ開発 - iOS リードエンジニア（Swift）          |
-| 2   | 2022年8月 - 2022年12月 | ファンクラブアプリ開発 - iOS エンジニア（Swift）                           |
-| 3   | 2021年7月 - 2022年5月  | ドローン制御アプリ開発 - iOS エンジニア（Swift）                        |
-| 4   | 2021年2月 - 2021年4月  | ショッピングアプリ開発 - Flutter エンジニア（Flutter）                    |
-| 5   | 2021年1月 - 2021年3月  | 飲食店管理アプリ開発 - iOS リードエンジニア（Swift）                    |
-| 6   | 2018年9月 - 2020年12月 | クレジットカードアプリ iOS アプリ開発 - iOS エンジニア（Swift）                     |
-| 7   | 2018年9月 - 2020年12月 | クレジットカードアプリ API 開発 - サーバーサイドエンジニア（PHP） |
+| No. | 期間                   | 案件名                                                              |
+| --- | ---------------------- | ------------------------------------------------------------------- |
+| 8   | 2024年2月 - 2024年4月  | Clean Architecture ベースの新アーキテクチャの考案 - 個人開発（Swift） |
+| 7   | 2023年4月 - 2023年10月 | マーケティングリサーチアプリ開発 - iOS リードエンジニア（Swift）    |
+| 6   | 2022年8月 - 2022年12月 | ファンクラブアプリ開発 - iOS エンジニア（Swift）                    |
+| 5   | 2021年7月 - 2022年5月  | ドローン制御アプリ開発 - iOS エンジニア（Swift）                    |
+| 4   | 2021年2月 - 2021年4月  | ショッピングアプリ開発 - Flutter エンジニア（Flutter）              |
+| 3   | 2021年1月 - 2021年3月  | 飲食店管理アプリ開発 - iOS リードエンジニア（Swift）                |
+| 2   | 2018年9月 - 2020年12月 | クレジットカードアプリ iOS アプリ開発 - iOS エンジニア（Swift）     |
+| 1   | 2018年9月 - 2020年12月 | クレジットカードアプリ API 開発 - サーバーサイドエンジニア（PHP）   |
 
-各案件の詳細は以下のプルダウンから表示できます。
+各案件の詳細は以下のプルダウンから確認できます。
 
 ---
 
-<details><summary>No1. マーケティングリサーチアプリ開発 - iOS リードエンジニア（Swift）</summary>
+<details><summary>No8. Clean Architecture ベースの新アーキテクチャの考案 - 個人開発（Swift）</summary>
+
+#### 期間
+
+2024年2月 - 2024年4月（3カ月間）
+
+#### 概要
+
+- Clean Architecture ベースの新しいアーキテクチャである「Framework-Independent Architecture (FIA)」の考案
+- このアーキテクチャの目的は、Clean Architecture のメリットを享受すると同時に、Xcode のビルド時間の短縮すること
+
+##### リポジトリ
+
+- **Framework-Independent Architecture (FIA):** FIA の紹介
+  - https://github.com/suguruTakahashi-1234/framework-independent-architecture
+- **FIA Practical Sample:** FIA を採用した実践的なプロジェクト
+  - https://github.com/suguruTakahashi-1234/fia-practical-sample
+
+##### スライド
+
+- Framework-Independent Architecture (FIA) - Clean Architecture で iOS アプリを爆速でビルドする -
+  - https://speakerdeck.com/sugurutakahashi/framework-independent-architecture-fia-clean-architecture-de-ios-apuriwobao-su-debirudosuru
+
+##### YouTube
+
+- 【Swift】Clean Architecture で iOS アプリを爆速でビルドする方法 Framework-Independent Architecture (FIA)【クリーンアーキテクチャ】
+  - https://www.youtube.com/watch?v=5blwYSQcL2E
+
+#### 新たな習得スキル
+
+- **Swift**
+  - SwiftUI の Observation による View の更新
+  - String Catalogs による多言語対応
+  - Swift 6 対応
+    - protocol の any → some 対応
+    - Strict Concurrency 対応
+  - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) によるボイラープレートコードの自動生成
+  - [SnapshotPreviews-iOS](https://github.com/EmergeTools/SnapshotPreviews-iOS) による SwiftUI Previews のカタログアプリの作成
+- **テスト**
+  - swift-testing によるテストコードの記述
+  - [PreviewSnapshots](https://github.com/doordash-oss/swiftui-preview-snapshots) による SwiftUI Previews のスナップショットテスト
+  - TestPlan による多言語テスト
+  - XCUITest による UI テスト
+- **開発体験の向上**
+  - GitHub Actions による Swift-DocC の ホスティング
+  - [depermaid](https://github.com/daikimat/depermaid) による Swift Package Manager の依存関係の Mermaid 生成
+
+</details>
+
+---
+
+<details><summary>No7. マーケティングリサーチアプリ開発 - iOS リードエンジニア（Swift）</summary>
 
 #### 期間
 
@@ -101,9 +153,9 @@
   - iOS16 以上を対象 OS とした SwiftUI での画面開発
   - Clean Architecture x Swift Package Manager でのマルチモジュール構成の構築
   - Xcode Cloud での CI/CD 環境の構築
-  - Protocol Buffers に対応した SwiftProtobuf のライブラリを用いたデータ連携
-  - async/await, AsyncStream, TaskGroup, actor などを用いた Swift Concurrency による非同期処理のハンドリング
-  - AWS Amplify SDK を用いた Cognito での SMS での認証・認可、AppSync による GraphQL 疎通、Pinpoint によるログイベント送信、S3 とのデータ連携
+  - Protocol Buffers に対応した [SwiftProtobuf](https://github.com/apple/swift-protobuf) のライブラリを用いたデータ連携
+  - async/await, AsyncStream, TaskGroup, Actor などを用いた Swift Concurrency による非同期処理のハンドリング
+  - [AWS Amplify SDK](https://github.com/aws-amplify/amplify-swift) を用いた Cognito での SMS での認証・認可、AppSync による GraphQL 疎通、Pinpoint によるログイベント送信、S3 とのデータ連携
   - デザインシステムを活用した画面実装
   - AVFoundation を用いた動画の再生
   - ReplayKit を用いた画面のレコーディング
@@ -111,10 +163,10 @@
   - JavaScript を用いたアプリ内 WebView のイベントハンドリング
 - **開発体験向上の取り組み**
   - GitHub Actions によるリリース tag の生成、リリースノートの作成、PR のレビューワー追加、マイルストーン追加、ラベル追加の自動化の Workflow の実装
-  - Renovate によるライブラリの自動更新 PR の作成の環境構築
-  - Periphery による Swift コードの不要なコードの静的解析
+  - [Renovate](https://github.com/renovatebot/renovate) によるライブラリの自動更新 PR の作成の環境構築
+  - [Periphery](https://github.com/peripheryapp/periphery) による Swift コードの不要なコードの静的解析
   - Swift-DocC による iOS アプリのドメイン層のドキュメント化
-  - Mockolo によるテスト用の Mock の自動生成
+  - [Mockolo](https://github.com/uber/mockolo) によるテスト用の Mock の自動生成
   - GitHub Copilot, ChatGPT の活用
 
 #### 経験できたこと・貢献できたこと
@@ -163,7 +215,7 @@
 
 ---
 
-<details><summary>No2. ファンクラブアプリ開発 - iOS エンジニア（Swift）</summary>
+<details><summary>No6. ファンクラブアプリ開発 - iOS エンジニア（Swift）</summary>
 
 #### 期間
 
@@ -221,7 +273,7 @@
 
 ---
 
-<details><summary>No3. ドローン制御アプリ開発 - iOS エンジニア（Swift）</summary>
+<details><summary>No5. ドローン制御アプリ開発 - iOS エンジニア（Swift）</summary>
 
 #### 期間
 
@@ -365,7 +417,7 @@
 
 ---
 
-<details><summary>No5. 飲食店管理アプリ開発 - iOS リードエンジニア（Swift）</summary>
+<details><summary>No3. 飲食店管理アプリ開発 - iOS リードエンジニア（Swift）</summary>
 
 #### 期間
 
@@ -422,7 +474,7 @@
 
 ---
 
-<details><summary>No6. クレジットカードアプリ iOS アプリ開発 - iOS エンジニア（Swift）</summary>
+<details><summary>No2. クレジットカードアプリ iOS アプリ開発 - iOS エンジニア（Swift）</summary>
 
 #### 期間
 
@@ -480,7 +532,7 @@
 
 ---
 
-<details><summary>No7. クレジットカードアプリ API 開発 - サーバーサイドエンジニア（PHP）</summary>
+<details><summary>No1. クレジットカードアプリ API 開発 - サーバーサイドエンジニア（PHP）</summary>
 
 #### 期間
 
@@ -552,6 +604,6 @@ iOS 開発だけでもなく、サーバーサイドエンジニアとしても�
 
 数多くのアジャイル開発の経験があり、Scrum Master も担当したことがあります。
 
-業務外でも、新しい技術を試してみることに興味があり、それらについての技術発信も積極的に行っています。→ Zenn: https://zenn.dev/ikuraikura (2023/09/28 現在 114件 投稿)
+業務外でも、新しい技術を試してみることに興味があり、それらについての技術発信も積極的に行っています。→ Zenn: https://zenn.dev/ikuraikura (2024/04/27 現在 115件 投稿)
 
 どうぞ、よろしくお願いいたします。
