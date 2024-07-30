@@ -88,7 +88,7 @@
 
 #### 期間
 
-2024年4月 - 現在
+2024年5月 - 現在
 
 #### チーム体制
 
@@ -98,6 +98,7 @@
 #### 案件概要・担当業務
 
 - 0 → 1 フェーズでの SNS アプリ開発の立ち上げ案件
+- 唯一の iOS エンジニアとして、アーキテクチャの考案、ライブラリの選定、CI/CD環境の構築、PM・デザイナー・サーバーサイドチームとの仕様調整、すべての iOS アプリの実装を担当
 
 #### 新たな習得スキル
 
@@ -106,17 +107,20 @@
   - AVFoundation を活用した録音・再生の実装
   - Speech SDK を活用した音声データの文字起こしの実装
 - **開発体験向上の取り組み**
-  - [Swift OpenAPI Generator](https://github.com/apple/swift-openapi-generator) による API 通信処理の自動生成
-  - [Swagger UI Action](https://github.com/Legion2/swagger-ui-action) を用いた API 仕様書の自動生成
-  - [tbls](https://github.com/k1LoW/tbls) を用いた MySQL のテーブル定義書の自動生成
+  - [Swift OpenAPI Generator](https://github.com/apple/swift-openapi-generator) による API 通信処理の自動生成の GitHub Actions パイプラインの構築
+  - [Swagger UI Action](https://github.com/Legion2/swagger-ui-action) を用いた API 仕様書の自動生成の GitHub Actions パイプラインの構築
+  - [tbls](https://github.com/k1LoW/tbls) を用いた MySQL のテーブル定義書の自動生成の GitHub Actions パイプラインの構築
+  - [pixelmatch](https://github.com/mapbox/pixelmatch) による Viewの スナップショットの差分検出の実装
 
 #### 経験できたこと・貢献できたこと
 
 - **アジャイルな取り組み**
-  - アーキテクチャの導入:
+  - テスタブルなアーキテクチャの導入:
     - モックにより API のレスポンスを差し替えられるアーキテクチャを導入し、サーバーサイドチームからの API 提供前から View やビジネスロジックの実装を可能にした
   - デバッグ画面の作成:
-    - デバッグ画面を作成し、新機能や View の早期検証を可能にした
+    - iOS アプリに検証用のデバッグ画面を作成し、新機能や View の早期検証を可能にした
+  - Docs as Code:
+    - [Swagger UI Action](https://github.com/Legion2/swagger-ui-action) や [tbls](https://github.com/k1LoW/tbls) によるドキュメント生成方法を調査して、サーバーサイドチームに展開した
 - **CI/CD 環境の構築**
   - Xcode Cloud 導入:
     - Xcode Cloud を活用し、Pull Request のマージをトリガーにして TestFlight 配信を自動化した。これにより、新機能の迅速な検証を可能にした
@@ -129,9 +133,11 @@
     - 環境構築手順、ライブラリ選定理由、アーキテクチャ、CI/CD 構成図、ブランチ戦略などを README に記載した
   - プロジェクト管理:
     - リリースノート、タグ、マイルストーン、GitHub Projects を整備し、タスクの進捗を時系列で振り返れるように管理した
-- **実装と最新技術への取り組み**
+- **実装・最新技術への取り組み**
   - 実装:
     - ワイヤフレーム段階でのデザインを基に iOS アプリを実装し、実装の課題や仕様の課題の早期発見し、チームへ共有した
+  - コード生成:
+    - View 層や UseCase 層のテストコードを含めたボイラーテンプレートコードは [Sourcery](https://github.com/krzysztofzablocki/Sourcery) や [Mockolo](https://github.com/uber/mockolo) によって自動生成し、開発効率を高めた
   - Swift 5 → Swift 6 への移行:
     - 早い段階から Beta 版 Xcode を用いて Swift 6 への移行を検証し、大きなトラブルなくスムーズに移行を完了した
 
@@ -700,6 +706,6 @@ iOS 開発だけでもなく、サーバーサイドエンジニアとしても�
 
 数多くのアジャイル開発の経験があり、Scrum Master も担当したことがあります。
 
-業務外でも、新しい技術を試してみることに興味があり、それらについての技術発信も積極的に行っています。→ Zenn: https://zenn.dev/ikuraikura (2024/04/27 現在 115件 投稿)
+業務外でも、新しい技術を試してみることに興味があり、それらについての技術発信も積極的に行っています。→ Zenn: https://zenn.dev/ikuraikura (2024/07/30 現在 115件 投稿)
 
 どうぞ、よろしくお願いいたします。
