@@ -104,13 +104,13 @@
 
 - **Swift**
   - Xcode 16 Beta での Strict Concurrency を含む Swift 6 対応
-  - AVFoundation を活用した録音・再生の実装
+  - AVFoundation を活用した録音/再生の機能実装
   - Speech SDK を活用した音声データの文字起こしの実装
 - **開発体験向上の取り組み**
   - [Swift OpenAPI Generator](https://github.com/apple/swift-openapi-generator) による API 通信処理の自動生成の GitHub Actions パイプラインの構築
   - [Swagger UI Action](https://github.com/Legion2/swagger-ui-action) を用いた API 仕様書の自動生成の GitHub Actions パイプラインの構築
   - [tbls](https://github.com/k1LoW/tbls) を用いた MySQL のテーブル定義書の自動生成の GitHub Actions パイプラインの構築
-  - [pixelmatch](https://github.com/mapbox/pixelmatch) による Viewの スナップショットの差分検出の実装
+  - [pixelmatch](https://github.com/mapbox/pixelmatch) による View のスナップショットの差分検出の実装
 
 #### 経験できたこと・貢献できたこと
 
@@ -119,7 +119,7 @@
     - モックにより API のレスポンスを差し替えられるアーキテクチャを導入し、サーバーサイドチームからの API 提供前から View やビジネスロジックの実装を可能にした
   - デバッグ画面の作成:
     - iOS アプリに検証用のデバッグ画面を作成し、新機能や View の早期検証を可能にした
-  - Docs as Code:
+  - Docs as Code の導入:
     - [Swagger UI Action](https://github.com/Legion2/swagger-ui-action) や [tbls](https://github.com/k1LoW/tbls) によるドキュメント生成方法を調査して、サーバーサイドチームに展開した
 - **CI/CD 環境の構築**
   - Xcode Cloud 導入:
@@ -135,7 +135,7 @@
     - リリースノート、タグ、マイルストーン、GitHub Projects を整備し、タスクの進捗を時系列で振り返れるように管理した
 - **実装・最新技術への取り組み**
   - 実装:
-    - ワイヤフレーム段階でのデザインを基に iOS アプリを実装し、実装の課題や仕様の課題の早期発見し、チームへ共有した
+    - ワイヤフレーム段階でのデザインを基に iOS アプリを実装し、実装の課題や仕様の課題を早期発見し、チームへ共有した
   - コード生成:
     - View 層や UseCase 層のテストコードを含めたボイラーテンプレートコードは [Sourcery](https://github.com/krzysztofzablocki/Sourcery) や [Mockolo](https://github.com/uber/mockolo) によって自動生成し、開発効率を高めた
   - Swift 5 → Swift 6 への移行:
