@@ -178,7 +178,7 @@
 #### 概要
 
 - Clean Architecture ベースの新しいアーキテクチャである「Framework-Independent Architecture (FIA)」の考案
-- このアーキテクチャの目的は、Clean Architecture のメリットを享受すると同時に、Xcode のビルド時間の短縮すること
+- 考案したアーキテクチャは Clean Architecture のメリットを享受すると同時に、Xcode のビルド時間の短縮することを目的としている
 
 ##### リポジトリ
 
