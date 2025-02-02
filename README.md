@@ -99,7 +99,7 @@
 - 体制
   - PdM : 1名
   - PM : 1名
-  - デザイナー  : 1名
+  - デザイナー : 1名
   - サーバーサイドエンジニア : 2名
   - Flutter エンジニア : 1名（担当）
 
@@ -121,6 +121,7 @@
   - `slang` による多言語対応
   - `pedantic_mono` によるコード品質の向上
   - `ThemeData` よりデザインシステムの実装
+  - `fvm` による Flutter バージョン管理
 - **開発体験向上の取り組み**
   - `Prism` を活用した API モックサーバーの構築
   - [`Lefthook`](https://github.com/evilmartians/lefthook) による pre-commit 時の静的解析実行
