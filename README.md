@@ -143,7 +143,10 @@
 
 #### Flutter
 
-- Riverpod, Hooks, go_router, dio, slang, permission_handler, flutter_secure_storage, pedantic_mono, freezed, google_maps_flutter, geolocator, openapi_freezed_dio_builder
+- **アーキテクチャ:**
+  - Riverpod + Hooks による状態管理
+- **主要ライブラリ:**
+  - go_router, dio, slang, permission_handler, flutter_secure_storage, pedantic_mono, freezed, google_maps_flutter, geolocator, openapi_freezed_dio_builder, fvm
 
 #### CI/CD
 
