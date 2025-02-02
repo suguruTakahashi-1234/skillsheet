@@ -57,7 +57,7 @@
 
 | 期間                   | 所属                      | 事業領域            | 雇用形態 |
 | ---------------------- | ------------------------- | ------------------- | -------- |
-| 2024年12月 - 現在      | SIer F 社                 | WEB3 特化 SIer      | 業務委託 |
+| 2024年12月 - 現在      | WEB3 特化 SIer F 社                 | SIer      | 業務委託 |
 | 2024年5月 - 2024年8月  | SIer E 社                 | SIer                | 業務委託 |
 | 2023年4月 - 2023年10月 | スタートアップ D 社       | リサーチ            | 業務委託 |
 | 2022年8月 - 2022年12月 | メガベンチャー C 社       | メディア / エンタメ | 業務委託 |
@@ -112,7 +112,7 @@
 
 - **Flutter**
   - `Riverpod` と `Hooks` 用いた状態管理
-  - `Google Maps API` を活用と `google_maps_flutter`, `geolocator` を用いた地図表示と位置情報取得
+  - `Google Maps API` の活用と `google_maps_flutter`, `geolocator` を用いた地図表示と位置情報取得
   - `go_router` を用いた画面遷移の実装
   - `openapi_freezed_dio_builder` を用いた API クライアントコードの自動生成
   - `dio` を用いた HTTP 通信およびインターセプターによる JWT 認証の実装
@@ -120,7 +120,7 @@
   - `permission_handler` を用いた位置情報取得、写真撮影、写真フォルダへのアクセスの実装
   - `slang` による多言語対応
   - `pedantic_mono` によるコード品質の向上
-  - `ThemeData` でのデザインシステムの導入
+  - `ThemeData` よりデザインシステムの実装
 - **開発体験向上の取り組み**
   - `Prism` を活用した API モックサーバーの構築
   - [`Lefthook`](https://github.com/evilmartians/lefthook) による pre-commit 時の静的解析実行
