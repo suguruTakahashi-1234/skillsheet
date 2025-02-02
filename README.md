@@ -34,7 +34,7 @@
   - **AWS**
     - AppSync (GraphQL), Cognito, S3, Pinpoint などの AWS サービスを AWS Amplify SDK を利用した実装
   - **GCP**
-    - Google Maps API などの GCP サービスの活用
+    - Google Maps API の活用
 - **CI/CD**
   - Xcode Cloud, Bitrise, GitHub Actions, Codemagic などの CI/CD ツールを用いた自動ビルド・デプロイ環境の構築
 
