@@ -114,7 +114,7 @@
   - `Riverpod` と `Hooks` 用いた状態管理
   - `Google Maps API` の活用と `google_maps_flutter`, `geolocator` を用いた地図表示と位置情報の取得
   - `go_router` を用いた画面遷移の実装
-  - `openapi_freezed_dio_builder` を用いた API クライアントコードの自動生成
+  - `openapi_generator` を用いた API クライアントコードの自動生成
   - `dio` を用いた HTTP 通信およびインターセプターによる JWT 認証の実装
   - `flutter_secure_storage` を用いたセキュアなデータ保存
   - `permission_handler` を用いた位置情報取得、写真撮影、写真フォルダへのアクセスの実装
@@ -133,7 +133,7 @@
   - デイリーの開催し、毎日、メンバー間での情報共有と開発プロセスの改善を行った
   - バグの発見から修正までのプロセスを整備して、それをチーム内で運用した
 - **API インターフェース設計と UI 先行開発**  
-  - サーバーサイドの Pull Request をレビューして、開発段階で API インターフェースの改善点をフィードバックを行った
+  - サーバーサイドの Pull Request をレビューし、開発段階で API インターフェースの改善点をフィードバックを行った
   - OpenAPI 形式の yaml ファイルから Prism でのモックサーバーでの開発環境を整備して、UI の先行開発を実施した
 - **デザインシステムの導入**  
   - デザイナーと協力してデザインシステムを設計し、デザインの一貫性を実現した
@@ -146,7 +146,7 @@
 - **アーキテクチャ:**
   - Riverpod + Hooks による状態管理
 - **主要ライブラリ:**
-  - go_router, dio, slang, permission_handler, flutter_secure_storage, pedantic_mono, freezed, google_maps_flutter, geolocator, openapi_freezed_dio_builder, fvm
+  - go_router, dio, slang, permission_handler, flutter_secure_storage, pedantic_mono, freezed, google_maps_flutter, geolocator, openapi_generator, fvm
 
 #### CI/CD
 
