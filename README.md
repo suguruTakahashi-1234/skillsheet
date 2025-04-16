@@ -2,6 +2,23 @@
 
 - このスキルシートのリンク - https://github.com/suguruTakahashi-1234/skillsheet
 
+## プロフェッショナルサマリー
+
+- **モバイルアプリ開発経験**：Swift (7年) を中心に幅広い技術スタックを習得
+- **リードエンジニアとしての実績**：0 → 1 フェーズでのリードエンジニア経験（4件）
+- **開発プロセス全般の担当**：アーキテクチャ設計から CI/CD 環境構築、チーム開発プロセス改善まで一貫して対応
+- **高度な技術実装経験**：Clean Architecture, IoT 連携、視線・感情分析 SDK の組み込み
+- **コミュニケーション力**：PdM、デザイナー、サーバーサイドエンジニアとの仕様調整、チーム内の進捗管理を担当
+
+## 技術スキルハイライト
+
+* **モバイルアプリ開発**: Swift (7年), Flutter, SwiftUI, UIKit
+* **アーキテクチャ**: Clean Architecture, VIPER, MVVM, Redux, Riverpod + Hooks
+* **バックエンド**: PHP, Java, Node.js, REST API設計, GraphQL, テーブル設計
+* **クラウド/mBaaS**: Firebase, AWS Amplify (AppSync, Cognito, S3), GCP
+* **プロジェクト管理**: Scrum Master 経験, アジャイル開発経験 (Jira, GitHub Projects, Zenhub)
+* **CI/CD**: Xcode Cloud, GitHub Actions, Bitrise
+
 ## 基本情報
 
 - **所在**: 東京
@@ -15,7 +32,7 @@
 
 ### モバイルアプリ開発
 
-- **Swift**
+- **Swift (7年)**
   - SwiftUI, Combine, Swift Concurrency, Swift Package Manager といった Swift のモダンな技術を活用した実装
   - Swift について多数のブログ記事の投稿 → Zenn: https://zenn.dev/ikuraikura
 - **Flutter**
@@ -37,7 +54,7 @@
 
 ### チーム開発
 
-- **リードエンジニア**
+- **リードエンジニア(4件)**
   - 0 → 1 フェーズでのリードエンジニアの経験（4 件）
   - アーキテクチャやライブラリの選定を含むプロジェクト立ち上げにおける技術選定の経験
   - プロジェクトのブランチ戦略、CI/CD 環境の設計・構築
@@ -53,6 +70,7 @@
 - **サーバーサイドエンジニア**
   - PHP での API の設計・開発、MySQL データベースのテーブル設計、OAuth2.0 による認証・認可の設計と実装
   - OpenAPI (Swagger) での API インターフェースの共有、Postman を用いた API テストの自動化、JMeter での負荷テストを設計・実施
+  - Express - Node.js での API 開発
 
 ## 職務経歴
 
@@ -70,7 +88,7 @@
 - 2021年
   - [No.5] ドローン制御アプリ開発 - iOS エンジニア（ドローンベンチャー B社）
 
-#### 正社員 (2017年04月 - 2021年06月 | 外資系ITコンサルティング企業 A社)
+### 正社員 (2017年04月 - 2021年06月 | 外資系ITコンサル A社)
 
 - 2021年
   - [No.4] ショッピングアプリ開発 - Flutter エンジニア
